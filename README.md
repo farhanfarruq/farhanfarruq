@@ -77,7 +77,7 @@
       <br><strong>Docker</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="70" alt="TailwindCSS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="120" alt="TailwindCSS" />
       <br><strong>TailwindCSS</strong>
     </td>
   </tr>
