@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/mG4SYa23g3SAw/giphy.gif" width="40"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh5djZzd2NoeW56cWxtZGh2OG80YWY1anM2NnIxY2t5dGdtaDF6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Wn1DjIHKwcbtGbTVlO/giphy.gif" width="40"> About Me
 
 <blockquote style="border-left: 5px solid #20C20E;">
   A code artisan from Indonesia, crafting elegant and efficient solutions for the digital world. My journey in web development is fueled by a passion for turning complex problems into beautiful, interactive applications. I'm not just building websites; I'm building experiences.
@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/I2we6j2FjI1aM/giphy.gif" width="40"> My Tech Arsenal
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ0Z29qYzJ5Z2ZqcWk4MDY5cWYzaHdpNjlwdnRpbDNoYXVzc3I0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/vXk2COs2b8GUunW1La/giphy.gif" width="40"> My Tech Arsenal
 
 <p align="center">
   <em>Here are some of the tools and technologies I use to bring ideas to life.</em>
@@ -85,7 +85,7 @@
 
 ---
 
-## 📊 My GitHub Activity
+##<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BodXA1d2RpdDB1enYyaWhmdGJqams0aXk4eW1mampkcDZvaXQ1ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif" width="40">My GitHub Activity
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
