@@ -65,7 +65,7 @@
       <br><strong>Express</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
+      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" height="50" alt="Laravel" />
       <br><strong>Laravel</strong>
     </td>
     <td align="center" width="200">
@@ -77,7 +77,7 @@
       <br><strong>Docker</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="TailwindCSS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="70" alt="TailwindCSS" />
       <br><strong>TailwindCSS</strong>
     </td>
   </tr>
