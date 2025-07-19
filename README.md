@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Full-Stack Web Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR6amx3Z2d4bWM2amo3dGt2enV4cXhsa3oybXMxZGZrM2lkZmZuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wcgn5fVDjvR7pdvz4C/giphy.gif" alt="Professional Coder GIF" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR6amx3Z2d4bWM2amo3dGt2enV4cXhsa3oybXMxZGZrM2lkZmZuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wcgn5fVDjvR7pdvz4C/giphy.gif" alt="Professional Coder GIF" width="40%"/>
 </p>
 
 ---
