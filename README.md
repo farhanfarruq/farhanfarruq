@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Farhan+Farruq!;I'm+a+Full-Stack+Developer.;I+build+things+for+the+web." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Farhan+Farruq!;I'm+a+Full-Stack+Developer.;I+build+things+for+the+web." alt="Typing SVG">
   </a>
 </h1>
 
@@ -65,7 +65,7 @@
       <br><strong>Express</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50" alt="Laravel" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
       <br><strong>Laravel</strong>
     </td>
     <td align="center" width="200">
@@ -77,7 +77,7 @@
       <br><strong>Docker</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="TailwindCSS" />
       <br><strong>TailwindCSS</strong>
     </td>
   </tr>
