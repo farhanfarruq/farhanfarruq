@@ -8,9 +8,6 @@
   <a href="https://linkedin.com/in/farhan-farruq" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/paanjink" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=farhanfarruq&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
 
@@ -19,7 +16,9 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh5djZzd2NoeW56cWxtZGh2OG80YWY1anM2NnIxY2t5dGdtaDF6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Wn1DjIHKwcbtGbTVlO/giphy.gif" width="40"> About Me
 
 <blockquote style="border-left: 5px solid #20C20E;">
-  A code artisan from Indonesia, crafting elegant and efficient solutions for the digital world. My journey in web development is fueled by a passion for turning complex problems into beautiful, interactive applications. I'm not just building websites; I'm building experiences.
+  Hello! I'm Farhan Miftakhul Farruq, a Computer Science undergraduate student at Institut Teknologi Dirgantara Adisutjipto based in Yogyakarta. I specialize in full-stack web development and have a strong passion for creating seamless and impactful digital experiences.
+
+  Fast-forward to today, I've been working as a freelance web developer, collaborating on a variety of projects ranging from personal websites to small business applications. This experience has allowed me to continuously sharpen my skills in both front-end and back-end development while helping clients bring their ideas to life online.
 </blockquote>
 
 - 🔭 Currently architecting a **scalable microservices-based e-commerce app**.
