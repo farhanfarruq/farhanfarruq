@@ -25,7 +25,7 @@
 - 🔭 Currently architecting a **scalable microservices-based e-commerce app**.
 - 🌱 Exploring the depths of **WebAssembly and Rust** for high-performance web modules.
 - 💬 Let's talk about **MERN/MEVN stack, Serverless architecture, or UI/UX design principles**.
-- 📫 Get in touch: **farhan.farruq.dev@email.com**
+- 📫 Get in touch: **farhanmiftakhulfarruq@gmail.com**
 
 ---
 
@@ -85,7 +85,7 @@
 
 ---
 
-##<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BodXA1d2RpdDB1enYyaWhmdGJqams0aXk4eW1mampkcDZvaXQ1ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif" width="40">My GitHub Activity
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BodXA1d2RpdDB1enYyaWhmdGJqams0aXk4eW1mampkcDZvaXQ1ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif" width="40">My GitHub Activity
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
